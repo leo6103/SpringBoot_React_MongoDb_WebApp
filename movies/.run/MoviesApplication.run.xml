@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="MoviesApplication" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-17-openjdk-amd64" />
     <option name="MAIN_CLASS_NAME" value="leo.nguyen.movies.MoviesApplication" />
     <module name="movies" />
     <method v="2">
